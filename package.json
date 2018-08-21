@@ -1,0 +1,24 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "Project for Udacity Front End Nanodegree",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickthanasiu/memory-game.git"
+  },
+  "author": "Nick Thanasiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickthanasiu/memory-game/issues"
+  },
+  "homepage": "https://github.com/nickthanasiu/memory-game#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
